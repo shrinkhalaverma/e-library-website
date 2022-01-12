@@ -1,0 +1,189 @@
+.cbody {
+  background-color: rgb(189, 181, 181);
+}
+.menu-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.web-title {
+  text-align: center;
+  color: blue;
+}
+.web-title2 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  background-color: cornflowerblue;
+}
+p {
+  text-align: center;
+  margin: 50px;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+}
+tr {
+  background-color: green;
+}
+
+/* harry potter
+*/
+.harry-color {
+  background-color: coral;
+}
+.hp1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  text-decoration-line: underline;
+}
+.hp2 {
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+  background-color: rgb(220, 255, 249);
+  border-style: groove;
+  border-color: black;
+  border-width: 1em;
+  font-style: oblique;
+}
+/* alice in wonderland
+*/
+.alice {
+  background-color: rgb(226, 43, 128);
+}
+.alice2 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  text-decoration-line: underline;
+}
+.alice3 {
+  text-align: center;
+  margin: 50px;
+  background-color: brown;
+  font-size: 30px;
+  border-radius: 50px 0px;
+  border-style: double;
+}
+
+/*panchtantra
+*/
+.p1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 50px;
+}
+.p2 {
+  text-align: center;
+  margin: 50px;
+  font-size: 20px;
+  background-color: burlywood;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*nonfiction
+*/
+.h1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 50px;
+}
+.h2 {
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+  border-style: groove;
+  background-color: indianred;
+}
+.r1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+.r2 {
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+  background-color: goldenrod;
+  border-style: double;
+}
+
+/*autobiography
+*/
+.w1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  text-decoration-line: underline;
+  background-color: darksalmon;
+}
+.w2 {
+  text-align: center;
+  margin: 50px;
+  font-size: 20px;
+  background-color: darkkhaki;
+}
+.w3 {
+  font-style: oblique;
+  font-weight: normal;
+  text-align: center;
+  background-color: rgb(226, 43, 128);
+  font-size: 30px;
+  border-style: solid;
+}
+.w4 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  background-color: rgb(143, 188, 186);
+  font-size: 50px;
+}
+/* drama
+*/
+.d1 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+.d2 {
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+  background-color: chocolate;
+  border-style: groove;
+}
+.d3 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+.d4 {
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+  background-color: blueviolet;
+  border-style: groove;
+  border-color: blue;
+  border-width: 1em;
+}
